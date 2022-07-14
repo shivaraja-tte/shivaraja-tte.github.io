@@ -27350,19 +27350,19 @@ html {
   --ant-info-color-deprecated-bg: #cfe6e3;
   --ant-info-color-deprecated-border: #62ccc7;
 }
-.ant-notification-notice._3trXk .ant-notification-notice-message,
-.ant-notification-notice._1Rhz8 .ant-notification-notice-message,
-.ant-notification-notice._3trXk .ant-notification-close-x,
-.ant-notification-notice._1Rhz8 .ant-notification-close-x,
-.ant-notification-notice._3trXk .anticon.ant-notification-notice-icon-warning,
-.ant-notification-notice._1Rhz8 .anticon.ant-notification-notice-icon-warning {
+.ant-notification-notice._2_Wxo .ant-notification-notice-message,
+.ant-notification-notice._2WUpj .ant-notification-notice-message,
+.ant-notification-notice._2_Wxo .ant-notification-close-x,
+.ant-notification-notice._2WUpj .ant-notification-close-x,
+.ant-notification-notice._2_Wxo .anticon.ant-notification-notice-icon-warning,
+.ant-notification-notice._2WUpj .anticon.ant-notification-notice-icon-warning {
   color: #fff;
   font-weight: bold;
 }
-.ant-notification-notice._3trXk {
+.ant-notification-notice._2_Wxo {
   background-color: var(--ant-warning-color);
 }
-.ant-notification-notice._1Rhz8 {
+.ant-notification-notice._2WUpj {
   background-color: var(--ant-error-color);
 }
 
@@ -27508,4 +27508,4 @@ html {
 }
 
 
-/*# sourceMappingURL=main-b2418511.chunk.css.map*/
+/*# sourceMappingURL=main-e45c2d0b.chunk.css.map*/
